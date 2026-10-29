@@ -21,7 +21,7 @@
 	"devDependencies": {
 		"@gql.tada/svelte-support": "^1.0.2",
 		"@sveltejs/adapter-static": "^3.0.9",
-		"@sveltejs/kit": "^2.63.0",
+		"@sveltejs/kit": "^3.0.0",
 		"@sveltejs/vite-plugin-svelte": "^7.1.2",
 		"@types/audioworklet": "^0.0.100",
 		"@types/debug": "^4.1.13",
